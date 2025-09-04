@@ -15,7 +15,7 @@
    - [MolProbity](https://molprobity.biochem.duke.edu/): check for the clashscore, Ramachandran outliers and MolProbity score.
    - [QMEAN](https://swissmodel.expasy.org/qmean/): check for the QMEANDisCo Global and local quality estimates.
 
-Structure visualization can be achivied with [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html) or [3DView](https://www.rcsb.org/3d-view)
+Structure visualization can be achievied with [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html) or [3DView](https://www.rcsb.org/3d-view)
 
 # Interactions prediction
 
