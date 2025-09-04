@@ -31,6 +31,8 @@
 
 7. Perform structure prediction of the complex using [Protenix](https://protenix-server.com/model/prediction/add).
 
+- Structure visualization can be achivied with [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html) or [3DView](https://www.rcsb.org/3d-view)
+
 # Properties Analysis
 
 - [Aggrescan4D](https://biocomp.chem.uw.edu.pl/a4d/)
