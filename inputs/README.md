@@ -15,6 +15,8 @@
    - [MolProbity](https://molprobity.biochem.duke.edu/): check for the clashscore, Ramachandran outliers and MolProbity score.
    - [QMEAN](https://swissmodel.expasy.org/qmean/): check for the QMEANDisCo Global and local quality estimates.
 
+Structure visualization can be achivied with [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html) or [3DView](https://www.rcsb.org/3d-view)
+
 # Interactions prediction
 
 1. Paratope prediction with [Parasurf](https://huggingface.co/spaces/angepapa/ParaSurf).
@@ -30,8 +32,6 @@
 6. Run molecular docking with [ClusPro](https://cluspro.org/home.php) in Antibody Mode.
 
 7. Perform structure prediction of the complex using [Protenix](https://protenix-server.com/model/prediction/add).
-
-- Structure visualization can be achivied with [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html) or [3DView](https://www.rcsb.org/3d-view)
 
 # Properties Analysis
 
